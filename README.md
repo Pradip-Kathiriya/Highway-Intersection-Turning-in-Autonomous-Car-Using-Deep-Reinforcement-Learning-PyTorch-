@@ -55,6 +55,13 @@ The flow chart of the training process is as follow:
 
 ![Highway_intersection_crossing_using_Deep_Reinforcement_Learning_AdobeExpress](https://user-images.githubusercontent.com/90370308/218331595-f351b0b2-2d85-4504-bbd0-ba52d0d2d2c6.gif)
 
+## How to run the code?
+
+```
+git clone 
+
+
+```
 
 
 
