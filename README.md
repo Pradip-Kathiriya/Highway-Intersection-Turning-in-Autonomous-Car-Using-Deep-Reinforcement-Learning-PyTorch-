@@ -58,9 +58,9 @@ The flow chart of the training process is as follow:
 ## How to run the code?
 
 ```
-git clone 
-
-
+git clone https://github.com/Pradip-Kathiriya/Highway-Intersection-Turning-in-Autonomous-Car-Using-Deep-Reinforcement-Learning-PyTorch-
+pip install highway-env
+code.py
 ```
 
 
