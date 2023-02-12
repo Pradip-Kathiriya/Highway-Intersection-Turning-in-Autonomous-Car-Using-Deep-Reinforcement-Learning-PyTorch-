@@ -9,10 +9,10 @@ The aim of this project is to train an ego vehicle to cross a highway intersecti
 ![img](https://user-images.githubusercontent.com/90370308/218330577-bc803c33-0d31-48ca-8173-e57932347957.png)
 
 ### Agent
-The agent is the ego vehcile who is learning how to cross the intersection
+The agent is the ego vehcile who is learning how to cross the intersection. It is shown by green box in the above image.
 
 ### Environment
-The Environment is the highway intersection and all the vehicle approaching it.
+The Environment is the highway intersection and all the vehicle approaching it. The ego vehicle is shown by green box and the other vehicle are shown by blue box.
 
 ### Action
 The ego vehicle has to follow the predefined path. It can take following actions while taking that path:
@@ -45,7 +45,15 @@ The flow chart of the training process is as follow:
 ![690_robot_learning](https://user-images.githubusercontent.com/90370308/218331476-02327a65-f879-492c-9571-59c4c7e7cff2.png)
 
 
+## Results
 
+1. Behavior of the vehicle before training
+
+![before_training_RL_AdobeExpress](https://user-images.githubusercontent.com/90370308/218331567-6472f87b-8a69-444a-a9e0-d1a5fb815d3f.gif)
+
+2. Behavior of the vehicle after training
+
+![Highway_intersection_crossing_using_Deep_Reinforcement_Learning_AdobeExpress](https://user-images.githubusercontent.com/90370308/218331595-f351b0b2-2d85-4504-bbd0-ba52d0d2d2c6.gif)
 
 
 
