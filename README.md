@@ -38,11 +38,11 @@ The policy network used here is CNN. It maps the state to the action. The optima
 
 The algorithm used here is Deep-Q Network with epsilon-greedy policy. The pseudocode of the algorithm is as follow:
 
-![Screenshot from 2023-02-12 11-21-57](https://user-images.githubusercontent.com/90370308/218331461-68c2dda7-3a87-4c2a-936f-7573535b4fb4.png)
+  ![Screenshot from 2023-02-12 11-21-57](https://user-images.githubusercontent.com/90370308/218331461-68c2dda7-3a87-4c2a-936f-7573535b4fb4.png)
 
 The flow chart of the training process is as follow:
 
-![690_robot_learning](https://user-images.githubusercontent.com/90370308/218331476-02327a65-f879-492c-9571-59c4c7e7cff2.png)
+  ![690_robot_learning](https://user-images.githubusercontent.com/90370308/218331476-02327a65-f879-492c-9571-59c4c7e7cff2.png)
 
 
 ## Results
